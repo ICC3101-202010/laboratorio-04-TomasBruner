@@ -17,7 +17,7 @@ namespace Laboratorio_4
 
         public override void Reiniciar()
         {
-            Console.WriteLine("Se acabó la memoria de la maquina de Empaque, la maquina se reinició");
+            Console.WriteLine("La maquina de Empaque se reinció");
         }
 
         public override void Encender()
